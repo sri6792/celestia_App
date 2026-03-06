@@ -23,8 +23,10 @@ Media Lab: Implemented logic for downloading and sharing high-res space assets.
 
 ###  Interactive Features & Games
 Space Mini-Games: Custom-built interactive logic for space-themed gaming.
+
 Star Map Explorer (VIP): A premium interface for tracking celestial bodies.
 Space Relaxation Room: A dedicated UI with ambient sounds and motion effects.
+
 Stargazing Guide: Logic to determine optimal sky-viewing times.
 
 ### Backend & UI/UX
